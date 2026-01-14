@@ -1,5 +1,31 @@
 # Changelog
 
+## [2.0.0](https://github.com/b0lle/release-please-prerelease-example/compare/v1.11.0...v2.0.0) (2026-01-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* feat! in feat
+
+### Features
+
+* feat ([e57ab64](https://github.com/b0lle/release-please-prerelease-example/commit/e57ab643a6424202c11f8769d4b813fcb9d14d3c))
+* feat in feat ([94a6153](https://github.com/b0lle/release-please-prerelease-example/commit/94a6153f82100944cd4d44b5ca08ec1ce7cd99a6))
+* feat! in feat ([ec92c90](https://github.com/b0lle/release-please-prerelease-example/commit/ec92c90a224f7273aa2a0469f1cb8497f468a174))
+
+
+### Bug Fixes
+
+* fix bei erstelltem pre-release ([1f606f2](https://github.com/b0lle/release-please-prerelease-example/commit/1f606f297a5c2dafd5d1a6900bbe8119eb51d8f0))
+* fix in feat! ([3d87a7a](https://github.com/b0lle/release-please-prerelease-example/commit/3d87a7a96cd73a53ef1f0b293d78f4fcd9a33c36))
+
+
+### Miscellaneous Chores
+
+* **main:** release 2.0.0-rc ([88e8b8d](https://github.com/b0lle/release-please-prerelease-example/commit/88e8b8d4056591935b455474e5846462bda9c41c))
+* **main:** release 2.0.0-rc.1 ([3a5d9ad](https://github.com/b0lle/release-please-prerelease-example/commit/3a5d9ad53bd8270e51c0750cdc0de3e9d160ca77))
+* **main:** release 2.0.0-rc.2 ([0a75383](https://github.com/b0lle/release-please-prerelease-example/commit/0a75383aabd22f417e65fa7043f35d936e89634f))
+
 ## [2.0.0-rc.2](https://github.com/b0lle/release-please-prerelease-example/compare/v2.0.0-rc.1...v2.0.0-rc.2) (2026-01-14)
 
 
