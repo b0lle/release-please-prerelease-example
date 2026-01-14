@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.0.1](https://github.com/b0lle/release-please-prerelease-example/compare/v2.0.0...v2.0.1) (2026-01-14)
+
+
+### Bug Fixes
+
+* neuer branch ([44cc861](https://github.com/b0lle/release-please-prerelease-example/commit/44cc8613e50d604d25e4d2cac787e76ac7c62946))
+* **test:** lass prerelease-prep fehlschlagen ([93c4d7a](https://github.com/b0lle/release-please-prerelease-example/commit/93c4d7aa711278a81ca85bb7062dece9aae7bd57))
+
+
+### Miscellaneous Chores
+
+* **main:** release 2.0.1-rc ([10534fe](https://github.com/b0lle/release-please-prerelease-example/commit/10534feeca6a34822808a4c1523557910ddc9d7b))
+
 ## [2.0.1-rc](https://github.com/b0lle/release-please-prerelease-example/compare/v2.0.0...v2.0.1-rc) (2026-01-14)
 
 
