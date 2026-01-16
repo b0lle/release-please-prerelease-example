@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.3](https://github.com/b0lle/release-please-prerelease-example/compare/v2.0.2...v2.0.3) (2026-01-16)
+
+
+### Bug Fixes
+
+* release without prerelease ([d58a40f](https://github.com/b0lle/release-please-prerelease-example/commit/d58a40f5d5b365bbac0fc47743508078a075f27b))
+
 ## [2.0.2](https://github.com/b0lle/release-please-prerelease-example/compare/v2.0.1...v2.0.2) (2026-01-16)
 
 
